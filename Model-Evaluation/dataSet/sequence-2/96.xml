@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sequence-2</folder>
+	<filename>96.JPG</filename>
+	<path>/home/yeyi/图片/sequence-2/96.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>126</width>
+		<height>123</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>24</ymin>
+			<xmax>76</xmax>
+			<ymax>38</ymax>
+		</bndbox>
+	</object>
+</annotation>
